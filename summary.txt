@@ -1,1 +1,23 @@
-Temporary
+Indonesia:
+- NasiGoreng
+- NasiPadang
+- Bakso
+- cendol
+- EsDoger
+- EsGoyobod
+
+Malaysia:
+- Pasembur
+- KeropokLekor
+- KerutukDaging
+- AirBatuCampur
+- AirMataKucing
+- ChendulPenang
+
+Jepang:
+- okonimyaki
+- onigiri
+- sushi
+- Matcha
+- Ofukucha
+- sakuraTea
